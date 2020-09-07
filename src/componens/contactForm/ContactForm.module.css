@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  margin-top: 20px;
+  width: 150px;
+  height: 40px;
+  margin-right: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  background-color: white;
+  border: 2px solid #008cba;
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #008cba;
+  color: white;
+}

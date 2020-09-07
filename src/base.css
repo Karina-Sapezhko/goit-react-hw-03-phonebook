@@ -1,0 +1,8 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+#root {
+  width: 450px;
+  margin: 0 auto;
+}
